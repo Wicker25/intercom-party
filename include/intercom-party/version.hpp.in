@@ -1,0 +1,18 @@
+/*!
+ * Title ---- intercom-party/version.hpp
+ * Author --- Giacomo Trudu aka `Wicker25` - wicker25[at]gmail[dot]com
+ *
+ * Copyright (C) 2017 by Giacomo Trudu.
+ * All rights reserved.
+ */
+
+#ifndef __INTERCOM_PARTY_VERSION_HPP__
+#define __INTERCOM_PARTY_VERSION_HPP__
+
+// Version of IntercomParty
+#define INTERCOM_PARTY_VERSION          "@INTERCOM_PARTY_VERSION@"
+#define INTERCOM_PARTY_VERSION_MAJOR    @INTERCOM_PARTY_VERSION_MAJOR@
+#define INTERCOM_PARTY_VERSION_MINOR    @INTERCOM_PARTY_VERSION_MINOR@
+#define INTERCOM_PARTY_VERSION_PATCH    @INTERCOM_PARTY_VERSION_PATCH@
+
+#endif /* __INTERCOM_PARTY_VERSION_HPP__ */
