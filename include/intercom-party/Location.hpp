@@ -27,7 +27,7 @@ public:
     /*!
      * Destructor method.
      */
-	virtual ~Location();
+    virtual ~Location();
 
     /*!
      * Creates a location.
